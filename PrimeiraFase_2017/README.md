@@ -1,0 +1,14 @@
+### Questões Resolvidas:
+- [ ] A
+- [ ] B
+- [ ] C
+- [ ] D
+- [ ] E
+- [x] F
+- [ ] G
+- [ ] H
+- [ ] I
+- [x] J
+- [ ] K
+- [ ] L
+- [x] M

@@ -1,0 +1,12 @@
+### Questões Resolvidas:
+- [x] A
+- [x] B
+- [x] C
+- [ ] D
+- [ ] E
+- [ ] F
+- [ ] G
+- [x] H
+- [ ] I
+- [ ] J
+- [ ] K
