@@ -1,4 +1,4 @@
 ### Questões Resolvidas:
-- [ ] A
+- [x] A
 - [ ] B
 - [ ] H
