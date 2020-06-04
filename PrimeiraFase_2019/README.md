@@ -1,5 +1,5 @@
 ### Questões Resolvidas:
-- [ ] A
+- [x] A
 - [x] B
 - [ ] C
 - [ ] D
