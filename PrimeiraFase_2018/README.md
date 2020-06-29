@@ -1,7 +1,7 @@
 ### Questões Resolvidas:
 - [ ] A
 - [ ] B
-- [ ] C
+- [x] C
 - [x] D
 - [x] E
 - [ ] F
